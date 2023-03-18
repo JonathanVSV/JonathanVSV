@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am Jonathan Solórzano, a biologist interested in remote sensing and spatial analysis to study and monitor tropical forests 🌳🛰️. 
+I am Jonathan Solórzano, a biologist interested in remote sensing and spatial analyses to study and monitor tropical forests 🌳🛰️. 
 
 I am currently finishing my PhD in Geography on evaluating deep learning algorithms (CNN) to make LULC maps, as well as to detect deforestation and forest degradation 🤓.
 
