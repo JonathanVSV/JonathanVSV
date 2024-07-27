@@ -12,9 +12,11 @@ I usually use R and GEE to make my analyses, and QGIS to visualize or perform ot
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanvsv&size_weight=0&count_weight=1&layout=compact)
 
 
-# Blog posts
+### Blog posts
 
 You can visit this page to learn more about my research or take a look at my posts (mainly R code): https://jonathanvsv.github.io/Ppage2/
+
+#### Latest posts: 
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
