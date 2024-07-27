@@ -14,6 +14,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in dev.to posts
-        uses: jonathanvsv/blog-post-workflow@v1
+        uses: jonathanvsv/blog-post-workflow@master
         with:
           feed_list: "https://jonathanvsv.github.io/Ppage2/feed.xml"
