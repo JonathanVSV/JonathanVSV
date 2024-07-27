@@ -8,7 +8,8 @@ I usually use R and GEE to make my analyses, and QGIS to visualize or perform ot
 
 <code><img height="25" class="center" alt="GEE" src="https://github.com/JonathanVSV/JonathanVSV/blob/main/imgs/r.png"></code>
 <code><img height="25" class="center" alt="R" src="https://github.com/JonathanVSV/JonathanVSV/blob/main/imgs/GEE.png"></code>
-![Top langs]([https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanvsv&size_weight=0&count_weight=1&layout=compact))
+
+![Top langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanvsv&size_weight=0&count_weight=1&layout=compact))
 
 
 # Blog posts
