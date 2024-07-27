@@ -16,4 +16,9 @@ You can visit this page to learn more about my research or take a look at my pos
 ### Latest posts: 
 
 <!-- BLOG-POST-LIST:START -->
+- [Raster parallel processing in R](https://jonathanvsv.github.io/Ppage2/blog/raster-parallel-processing/)
+- [Leaflet in R](https://jonathanvsv.github.io/Ppage2/blog/Leaflet-in-r/)
+- [AGB forest sampling calculations](https://jonathanvsv.github.io/Ppage2/blog/AGB-forest-sampling-calculations/)
+- [Rasters and vectors with terra](https://jonathanvsv.github.io/Ppage2/blog/rasters-and-vectors-with-terra/)
+- [Working with LiDAR data in R](https://jonathanvsv.github.io/Ppage2/blog/working-with-lidar/)
 <!-- BLOG-POST-LIST:END -->
