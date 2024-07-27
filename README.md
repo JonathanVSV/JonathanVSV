@@ -8,7 +8,7 @@ I usually use R and GEE to make my analyses, and QGIS to visualize or perform ot
 
 You can visit this page to learn more about my research or take a look at my posts (mainly R code): https://jonathanvsv.github.io/Ppage2/
 
-### Langs
+### Tools
 
 <code><img height="25" class="center" alt="GEE" src="https://github.com/JonathanVSV/JonathanVSV/blob/main/imgs/r.png"></code>
 <code><img height="25" class="center" alt="R" src="https://github.com/JonathanVSV/JonathanVSV/blob/main/imgs/GEE.png"></code>
