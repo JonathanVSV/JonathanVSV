@@ -13,6 +13,8 @@ You can visit this page to learn more about my research or take a look at my pos
 <code><img height="25" class="center" alt="GEE" src="https://github.com/JonathanVSV/JonathanVSV/blob/main/imgs/r.png"></code>
 <code><img height="25" class="center" alt="R" src="https://github.com/JonathanVSV/JonathanVSV/blob/main/imgs/GEE.png"></code>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanvsv&size_weight=0&count_weight=1&layout=compact&theme=transparent)
+
 ### Latest posts: 
 
 <!-- BLOG-POST-LIST:START -->
