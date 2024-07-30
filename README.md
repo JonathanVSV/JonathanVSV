@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am Jonathan Solórzano, a biologist interested in using remote sensing to study and monitor tropical forests 🌳🛰️. 
+I am Jonathan Solórzano, a biologist/geographer interested in using remote sensing to study and monitor tropical forests 🌳🛰️. 
 
 I am particularly keen on using multispectral, SAR, and LiDAR data with machine/deep learning algorithms to monitor land use/land cover (LULC) and aboveground biomass (AGB) changes 🤓.
 
