@@ -6,7 +6,9 @@ I am particularly keen on using multispectral, SAR, and LiDAR data with machine/
 
 I usually use R and GEE to make my analyses, and QGIS to visualize or perform other simple tasks.
 
-You can visit this page to learn more about my research or take a look at my posts (mainly R code): https://jonathanvsv.github.io/Ppage2/
+[![Google Scholar Badge](https://img.shields.io/badge/My-Google%20Scholar-4d90fe)](https://scholar.google.com/citations?user=sXi9pZMAAAAJ&hl=es)
+[![My Website](https://img.shields.io/badge/My-Website-5b8d2e)](https://jonathanvsv.github.io/Ppage2/)
+[![My Blog](https://img.shields.io/badge/My-Blog-6e7173)](https://jonathanvsv.github.io/Ppage2/posts/)
 
 ### Tools
 
