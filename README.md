@@ -21,9 +21,9 @@ I usually use R and GEE to make my analyses, and QGIS to visualize or perform ot
 ### Latest posts: 
 
 <!-- BLOG-POST-LIST:START -->
+- [Create-certificates-in-R](https://jonathanvsv.github.io/Ppage2/blog/Create-certificates-in-R/)
+- [Google Drive in R](https://jonathanvsv.github.io/Ppage2/blog/Google-drive-in-r/)
 - [Extract tables from pdf in R](https://jonathanvsv.github.io/Ppage2/blog/extract-pdf-tables/)
 - [STAC in R](https://jonathanvsv.github.io/Ppage2/blog/stac/)
 - [Raster parallel processing in R](https://jonathanvsv.github.io/Ppage2/blog/raster-parallel-processing/)
-- [Leaflet in R](https://jonathanvsv.github.io/Ppage2/blog/Leaflet-in-r/)
-- [AGB forest sampling calculations](https://jonathanvsv.github.io/Ppage2/blog/AGB-forest-sampling-calculations/)
 <!-- BLOG-POST-LIST:END -->
