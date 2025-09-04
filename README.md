@@ -11,6 +11,8 @@ I usually use R and GEE to make my analyses, and QGIS to visualize or perform ot
 [![My Website](https://img.shields.io/badge/My-Website-5b8d2e)](https://jonathanvsv.github.io/Ppage2/)
 [![My Blog](https://img.shields.io/badge/My-Blog-6e7173)](https://jonathanvsv.github.io/Ppage2/posts/)
 
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
+
 ### Tools
 
 <code><img height="25" class="center" alt="GEE" src="https://github.com/JonathanVSV/JonathanVSV/blob/main/imgs/r.png"></code>
