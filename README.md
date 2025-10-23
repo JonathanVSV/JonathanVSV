@@ -20,6 +20,18 @@ I usually use R and GEE to make my analyses, and QGIS to visualize or perform ot
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanvsv&size_weight=0&count_weight=1&layout=compact&theme=transparent)
 
+### Main repos
+
+Topic | Language | Repo | 
+--- | --- | --- |
+Deep Learning | R | [U-netR ](https://github.com/JonathanVSV/U-netR)
+Deep Learning | R | [U-net3Def](https://github.com/JonathanVSV/U-netRDef)
+Machine Learning | R | [AGBLiDAR](https://github.com/JonathanVSV/AGBLiDAR)
+Time series | R | [bfast_params_extr](https://github.com/JonathanVSV/bfast_params_extr)
+Cloudless observations | JS-GEE | [PerPixelObsSentinel-2](https://github.com/JonathanVSV/PerPixelObsSentinel-2)
+Cloudless observations | JS-GEE | [Landsat-Sentinel-Obs](https://github.com/JonathanVSV/Landsat-Sentinel-Obs)
+Personal Website | mainly R | [Ppage2](https://github.com/JonathanVSV/Ppage2)
+
 ### Latest posts: 
 
 <!-- BLOG-POST-LIST:START -->
