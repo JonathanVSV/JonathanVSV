@@ -30,7 +30,7 @@ Machine Learning | R | [AGBLiDAR](https://github.com/JonathanVSV/AGBLiDAR)
 Time series | R | [bfast_params_extr](https://github.com/JonathanVSV/bfast_params_extr)
 Cloudless observations | JS-GEE | [PerPixelObsSentinel-2](https://github.com/JonathanVSV/PerPixelObsSentinel-2)
 Cloudless observations | JS-GEE | [Landsat-Sentinel-Obs](https://github.com/JonathanVSV/Landsat-Sentinel-Obs)
-Personal Website | mainly R | [Ppage2](https://github.com/JonathanVSV/Ppage2)
+Personal Website | mainly R | [academic-profile](https://github.com/JonathanVSV/academic-profile)
 
 ### Latest posts: 
 
