@@ -2,9 +2,9 @@
 
 I am Jonathan V. Solórzano, a biologist/geographer interested in using remote sensing to study and monitor forests 🌳🛰️. 
 
-I am particularly keen on using multispectral, SAR, and LiDAR data with machine/deep learning algorithms to monitor land use/land cover (LULC) and aboveground biomass (AGB) changes 🤓.
+I am particularly keen on using multispectral, SAR, and LiDAR data with machine/deep learning algorithms to monitor land-use/land-cover (LULC) and aboveground biomass (AGB) changes 🤓.
 
-I usually use R and GEE to make my analyses, and QGIS to visualize or perform other simple tasks.
+I usually use R and GEE for my analyses, and QGIS for visualization and other simple tasks. I am also starting to use Python for deep learning analyses.
 
 [![Orcid](https://img.shields.io/badge/My-Orcid-a6ce39)](https://orcid.org/0000-0001-6422-4802)
 [![Google Scholar Badge](https://img.shields.io/badge/My-Google%20Scholar-4d90fe)](https://scholar.google.com/citations?user=sXi9pZMAAAAJ&hl=es)
@@ -15,8 +15,9 @@ I usually use R and GEE to make my analyses, and QGIS to visualize or perform ot
 
 ### Tools
 
-<code><img height="25" class="center" alt="GEE" src="https://github.com/JonathanVSV/JonathanVSV/blob/main/imgs/r.png"></code>
 <code><img height="25" class="center" alt="R" src="https://github.com/JonathanVSV/JonathanVSV/blob/main/imgs/GEE.png"></code>
+<code><img height="25" class="center" alt="GEE" src="https://github.com/JonathanVSV/JonathanVSV/blob/main/imgs/r.png"></code>
+<code><img height="25" class="center" alt="Python" src="https://github.com/JonathanVSV/JonathanVSV/blob/main/imgs/python.png"></code>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanvsv&size_weight=0&count_weight=1&layout=compact&theme=transparent)
 
