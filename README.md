@@ -9,7 +9,7 @@ I usually use R and GEE for my analyses, and QGIS for visualization and other si
 [![Orcid](https://img.shields.io/badge/My-Orcid-a6ce39)](https://orcid.org/0000-0001-6422-4802)
 [![Google Scholar Badge](https://img.shields.io/badge/My-Google%20Scholar-4d90fe)](https://scholar.google.com/citations?user=sXi9pZMAAAAJ&hl=es)
 [![My Website](https://img.shields.io/badge/My-Website-5b8d2e)](https://jonathanvsv.github.io/academic-profile/)
-[![My Blog](https://img.shields.io/badge/My-Blog-6e7173)](https://jonathanvsv.github.io/Ppage2/posts/)
+[![My Blog](https://img.shields.io/badge/My-Blog-6e7173)](https://jonathanvsv.github.io/academic-profile/posts.html)
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
 
